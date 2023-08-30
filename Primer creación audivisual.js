@@ -1,0 +1,5 @@
+voronoi(5,0.3,0.3)
+.rotate(3,1)
+.color(0,1,3,1)
+.add(shape(7,0.2,0.1))
+.out()
